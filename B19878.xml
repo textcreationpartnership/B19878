@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation for the discovery and apprehension of several trayterous conspirators herein named.</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19878</idno><idno type="EEBO-CITATION">99890091_192479</idno>
+  <idno type="VID">192479</idno>
+  <idno type="EEBO-PROQUEST">2264189519</idno>
+  
+            <idno type="OCLC"> 15578727</idno>
+            <idno type="STC">Wing C3471</idno>
+            <idno type="STC">Interim Tract Supplement Guide 21.h.1[190]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.1[30h]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[176]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.c.8[177]</idno>
+            <idno type="STC">ESTC R35905</idno>
+            <idno type="STC">ESTC R228836</idno>
+            <idno type="STC">ESTC R228837</idno>
+            <idno type="PROQUEST">ocm99890091</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890091e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19878)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 192479)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:1[190]; C9:3[144]; C18:1[175]; C18:1[176])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation for the discovery and apprehension of several trayterous conspirators herein named.</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Bill and Christopher Barker, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at the court at Whitehal, the tenth day of November, in the fifteenth year of His Majesties reign.</note>
+                  <note>Steele notation: and Insurrection 2) England other; Arms 73.</note>
+                  <note>Reproduction of original in the British Library.</note>
+                  <note>Two copies are filmed consecutively at reel C18:1[175]-[176].</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:192479:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms of Charles II</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> By the King. A PROCLAMATION For the Discovery and Apprehension of several Trayterous Conspirators herein named.</head>
+            <opener>
+               <signed>CHARLES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas We are credibly Advertised, That many Seditious persons who are given to change, and of desperate Designs, not having any sense either of former Intestine Distractions, the memory whereof should endear and put a value upon that miraculous Peace and Settlement by Our Restauration, nor being moved by Our reiterated Acts of Grace and Clemency, wherein We have studied and delighted to abound towards all Our Subjects, nor with the fresh and late exemplary Iustice upon Traiterous Offenders, have Pernitiously and Traiterously of late at<g ref="char:EOLhyphen"/>tempted to Imbroyl again this Our Kingdom in Bloud, by Complotting and Contriving an Insurrection and Rebellion against Our Person, Crown and Government, wickedly propo<g ref="char:EOLhyphen"/>sing to themselves a Prey and Booty in the Publick Confusion. And whereas <hi>Richard Oldred</hi> of <hi>Duesbury, William Dickenson</hi> of <hi>Gildersome, Jeremy Marshden</hi> of <hi>Hughall, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Marshden</hi> his brothers, <hi>David Lumley</hi> of <hi>Hutton-Roides, Simeon Butler</hi> of <hi>Bingley, John Atkinson,</hi> called the Stockener, <hi>Christopher Dawson</hi> of <hi>Leeds, Ed<g ref="char:EOLhyphen"/>ward Wilkinson</hi> of <hi>Hounslett, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Fisher</hi> late Preacher of <hi>Sheffeild</hi> in Our County of <hi>York, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Richarson,</hi> commonly called Doctor, Captain <hi>Mason</hi> of the Bishoprick of <hi>Durham,</hi> Captain <hi>Jones</hi> of <hi>London, <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Palmer</hi> Minister near <hi>Nottingham,</hi> Captain <hi>Atkinson,</hi> and <hi>Nicholas Locker</hi> of <hi>Scegby</hi> in the said County of <hi>Nottingham,</hi> being persons in<g ref="char:EOLhyphen"/>gaged in the said Horrid and Treasonable Conspiracy, and being conscious of their own Guilt, have fled or with<g ref="char:EOLhyphen"/>drawn themselves from Iustice, and do privately lurk and obscure themselves in places unknown, whereby they cannot be apprehended and brought to a Legal Tryal for their Offences. We therefore have thought fit, by and with the Advice of Our Privy Council, to publish the same to all Our loving Subjects, not doubting of their care and forwardness in their Apprehension. And We do by this Our Proclamation Command and Declare, That all and every the persons before named, within Fourteen days after the Publication hereof, personally appear and render themselves to some of Our Privy Council, or of the Iustices of Peace, or Sheriffs of Our Counties of <hi>England</hi> and <hi>Wales,</hi> under pain of being proceeded against as Guilty of High Treason, according to Law. And We do here<g ref="char:EOLhyphen"/>by Require and Command, aswell all and singular Our Iudges, Iustices of Peace, Mayors, Sheriffs, Bayliffs, Constables and Headboroughs, as also all the Officers and Ministers of Our Ports, and other Our Subjects what<g ref="char:EOLhyphen"/>soever, within Our Realms of <hi>England, Scotland, Ireland,</hi> or Dominion of <hi>Wales,</hi> and all other Our Dominions and Territories, to be diligent in Enquiring and Searching for the said persons in all places whatsoever, aswell within Liberties as without; Whom, or any of them, if they shall happen to take, Our further Will and Pleasure is, That they cause them so apprehended, to be safely carried before the next Iustice of the Peace to the place where he or they shall be Arrested; whom we straitly Command to Commit them and every of them to Prison, and presently Inform Vs or some of Our Privy Council of their said Apprehension. And We do hereby straitly charge and forbid all Our lo<g ref="char:EOLhyphen"/>ving Subjects of what degree or quality soever, That they do not presume to entertain or harbour any of the persons aforesaid, but they use their utmost endeavours to apprehend them. And We do hereby Declare and Publish, That if any person or persons after this Our Proclamation published, shall directly or indirectly conceal, harbour, keep, retain or maintain the said persons, or any of them, or shall contrive or connive at any means whereby they or any of them may escape from being Taken or Arrested, or shall not use their best endeavours for their Apprehension, aswell by giving due Advertisement thereof to Our Officers, as by all other good means, We will (as there is just cause) pro<g ref="char:EOLhyphen"/>ceed against them that shall so neglect this Our Commandment, with all severity, according to Iustice, and other demerits.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at the Court at <hi>Whitehal,</hi>
+                  </hi>
+                  <date>
+                     <hi>the Tenth day of November, in the Fifteenth year of His Majesties Reign.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>John Bill</hi> and <hi>Christopher Barker,</hi> Printers to the KINGS most excellent Majesty. 1663.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
